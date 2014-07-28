@@ -1,0 +1,2 @@
+obj/haval.o: haval.c sph_haval.h sph_types.h haval_helper.c
+haval.c sph_haval.h sph_types.h haval_helper.c :

@@ -1,0 +1,2 @@
+obj/sha2big.o: sha2big.c sph_sha2.h sph_types.h md_helper.c
+sha2big.c sph_sha2.h sph_types.h md_helper.c :
